@@ -1,6 +1,27 @@
 {
   "swfs": [
     {
+      "location": "swfs/meimei.swf",
+      "title": "美眉茶餐厅",
+      "author": "Hebin",
+      "authorLink": "",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/hjkg.swf",
+      "title": "黄金矿工",
+      "author": "Hebin",
+      "authorLink": "",
+      "type": "Game"
+    },
+    {
+      "location": "swfs/hjkgwd.swf",
+      "title": "黄金矿工无敌版",
+      "author": "Hebin",
+      "authorLink": "",
+      "type": "Game"
+    },
+    {
       "location": "swfs/bitey1.swf",
       "title": "Bitey of Brackenwood",
       "author": "Adam Phillips",
